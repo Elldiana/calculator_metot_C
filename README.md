@@ -1,1 +1,1 @@
-!()[ekran/1.png]
+![](ekran/1.png)
